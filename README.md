@@ -1,5 +1,6 @@
 # StegSnowPlow
 A basic bash brute force script to run against a Stegsnow file
+
 --Will Need StegSnow Installed Already--
 
 # Usage
